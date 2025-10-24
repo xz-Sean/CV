@@ -1,7 +1,5 @@
 # CV
 
-Xiangxin Zhao_CV PhD application.pdf
-
 Welcome!  
 This repository contains my **academic and professional CV**.
 
